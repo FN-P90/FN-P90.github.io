@@ -1,7 +1,3 @@
-layout: default
-title: Your Page Name
-hide_title: true
-
 ## [Back](README.md)
 
 # <ins>Credits<ins>
