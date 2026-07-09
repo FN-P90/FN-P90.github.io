@@ -1,4 +1,0 @@
-{% unless page.hide_title %}
-  <h1>{{ site.title | default: site.github.repository_name }}</h1>
-{% endunless %}
-
