@@ -1,5 +1,5 @@
 # <ins>Credits<ins>
-Site by [FN-P90](https://github.com/FN-P90) <img src="images/pcprofile.jpeg" alt="Profile photo" width="25"> <br>
+Site by [FN-P90](https://github.com/FN-P90) <img src="images/pcprofile.jpeg" alt="Profile photo" width="25"> / [mavvie](https://discord.com/users/882360480943992922) <img src="images/discord.jpg" alt="Profile photo" width="25"> <br>
 
 
 # <ins>Links<ins>
