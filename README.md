@@ -1,7 +1,7 @@
 # The hub
 FN's hub repository.
 
-### [Games](games.md)
+### <ins>[Games](games.md)<ins>
 
 Check the site's [Credits and Extras](xtra.md) page!
 
