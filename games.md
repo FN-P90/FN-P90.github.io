@@ -27,12 +27,12 @@
     <img src="images/oneshot.jpeg" width="64" height="64" style="display: block; margin: 0 auto; object-fit: contain; border: none; max-width: 64px;">
   </a>
 
-  <a href="games/placeholder.md" target="_blank" class="game-card">
+  <a href="games/placeholder.html" target="_blank" class="game-card">
     <span style="display: block; color: white; font-family: sans-serif; font-size: 14px; font-weight: 600; line-height: 1.2; width: 80px; white-space: normal; word-wrap: break-word; margin-bottom: 8px;">Placeholder</span>
     <img src="images/placeholder.jpeg" width="64" height="64" style="display: block; margin: 0 auto; object-fit: contain; border: none; max-width: 64px;">
   </a>
 
-  <a href="games/placeholder.md" target="_blank" class="game-card">
+  <a href="games/placeholder.html" target="_blank" class="game-card">
     <span style="display: block; color: white; font-family: sans-serif; font-size: 14px; font-weight: 600; line-height: 1.2; width: 80px; white-space: normal; word-wrap: break-word; margin-bottom: 8px;">Placeholder</span>
     <img src="images/placeholder.jpeg" width="64" height="64" style="display: block; margin: 0 auto; object-fit: contain; border: none; max-width: 64px;">
   </a>
