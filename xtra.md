@@ -1,9 +1,9 @@
 # <ins>Credits<ins>
-Site by [FN-P90](https://github.com/FN-P90) <img src="images/pcprofile.jpeg" alt="Profile photo" width="25"> / [mavvie](https://discord.com/users/882360480943992922) <img src="images/discord.jpg" alt="Profile photo" width="25"> <br>
-
+Site by [FN-P90](https://github.com/FN-P90) <img src="images/pcprofile.jpeg" alt="Profile photo" width="25">
 
 # <ins>Links<ins>
-Join my [Discord](https://discord.gg/HAeXUYx5ny) <img src="images/discord.jpg" alt="Profile photo" width="25"> !
+[Join my Discord](https://discord.gg/HAeXUYx5ny) <img src="images/discord.jpg" alt="Profile photo" width="25"> !
+[My Discord Profile](https://discord.com/users/882360480943992922) <img src="images/discord.jpg" alt="Profile photo" width="25"> <br>
 
 
 <a href="https://fn-p90.github.io" style="position: fixed; left: 15px; top: 15px; z-index: 9999; display: inline-flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px 24px; background-color: #24292e; color: white; border-radius: 12px; text-decoration: none; box-shadow: 0 6px 16px rgba(0,0,0,0.2); width: 80px; text-align: center; font-family: sans-serif;">
