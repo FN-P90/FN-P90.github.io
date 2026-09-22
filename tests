@@ -1,0 +1,18 @@
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+  <!-- Image 1 -->
+  <a href="images/photo1.jpg" target="_blank" style="flex: 1 1 250px; max-width: 400px;">
+    <img src="images/photo1.jpg" alt="Photo 1" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;">
+  </a>
+
+  <!-- Image 2 -->
+  <a href="images/photo2.jpg" target="_blank" style="flex: 1 1 250px; max-width: 400px;">
+    <img src="images/photo2.jpg" alt="Photo 2" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;">
+  </a>
+
+  <!-- Image 3 -->
+  <a href="images/photo3.jpg" target="_blank" style="flex: 1 1 250px; max-width: 400px;">
+    <img src="images/photo3.jpg" alt="Photo 3" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block;">
+  </a>
+
+</div>
