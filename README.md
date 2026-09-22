@@ -1,5 +1,5 @@
 # The hub
-FN's hub repository.
+FN-P90's hub.
 
 ### <ins>[Games](games.md)<ins>
 
