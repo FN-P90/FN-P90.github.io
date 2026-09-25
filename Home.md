@@ -1,5 +1,5 @@
-# The Hub
-<sup>FN-P90's hub.</sup>
+# Home
+<sup>FN-P90's Hub.</sup>
 
 ### <ins>[Games](games.md)<ins>
 
